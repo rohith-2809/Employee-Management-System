@@ -1,7 +1,7 @@
 
 ---
 
-# 🏢 Employee Management System (EMS)
+# Employee Management System (EMS)
 
 > **AI-Enhanced Workforce, Task & Performance Management**
 
