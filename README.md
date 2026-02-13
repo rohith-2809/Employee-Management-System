@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **🧑‍💼 Admin Dashboard**: Complete control for creating, updating, and removing employees.
 * **📋 Task Assignment Engine**: Assign tasks with title, description, category, priority & deadlines.
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend**: React (Vite), Tailwind CSS
 * **Backend**: Node.js, Express
@@ -36,7 +36,7 @@
 
 ---
 
-## 📦 Project Structure
+##  Project Structure
 
 ```bash
 EMS/
@@ -56,7 +56,7 @@ EMS/
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -109,11 +109,11 @@ EMS is optimized for **one-click deployment** on Render.
    * `JWT_SECRET`
    * `PORT`
 
-Your EMS system is now live and scalable globally. 🌍
+Your EMS system is now live and scalable globally. 
 
 ---
 
-## 🛡️ License
+##  License
 
 This project is licensed under the **ISC License**.
 
